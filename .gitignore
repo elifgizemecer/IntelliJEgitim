@@ -1,0 +1,3 @@
+-< terminalde git innit yazdık commit açıldı
+.idea //.idea klasöründe ne değişirse değişsin git bunu ignore edecek
+*.iml // * tüm demek. iml uzantılı hiç bir dosyaya bakma
